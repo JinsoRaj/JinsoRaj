@@ -1,4 +1,9 @@
 ### Hi there 👋
+<br>
+<a href="https://tu.hin.life"><img src="https://github-stats-alpha.vercel.app/api/?username=JinsoRaj&cc=000&tc=fff&ic=fff" alt="Jinso Raj"></a>
+<br>
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JinsoRaj/&title=Profile%20Views)
+
 
 <!--
 **JinsoRaj/JinsoRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
