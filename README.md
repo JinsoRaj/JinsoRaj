@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://tu.hin.life"><img src="https://github-stats-alpha.vercel.app/api/?username=JinsoRaj&cc=000&tc=fff&ic=fff" alt="Jinso Raj"></a>
+<a href="https://jinsoraj.tk"><img src="https://github-stats-alpha.vercel.app/api/?username=JinsoRaj&cc=000&tc=fff&ic=fff" alt="Jinso Raj"></a>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JinsoRaj/&title=Profile%20Views)
 
