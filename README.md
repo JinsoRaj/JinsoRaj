@@ -1,5 +1,5 @@
 ### 👋
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/jr-name-banner.png" /></a></p>
+<p align="center"><a href="https://jinsoraj.github.io"><img width="80%" src="./assets/jr-name-banner.png" /></a></p>
 <br />
 
 
@@ -30,7 +30,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/17820af0c3bdcd4d2e5cae55d34ad1932c5f2d3f/topics/deta/deta.png"></code>
  
 
-| <a href="https://github.com/JinsoRaj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jinsoraj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jinso's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoraj&layout=compact&theme=buefy&hide_border=true" alt="Jinso's top langs"/></a> |
+| <a href="https://github.com/JinsoRaj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jinsoraj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jinso's github stats" /></a> | <a href="https://github.com/JinsoRaj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoraj&layout=compact&theme=buefy&hide_border=true" alt="Jinso's top langs"/></a> |
 | ------------- | ------------- |
  
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JinsoRaj/&title=Profile%20Views)
