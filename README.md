@@ -1,5 +1,5 @@
 ### 👋
-<p align="center"><a href="https://jinsoraj.github.io"><img width="80%" src="./assets/jr-name-banner.png" /></a></p>
+<p align="center"><a href="https://jinsoraj.github.io"><img width="60%" src="./assets/jr-name-banner.png" /></a></p>
 <br />
 
 
